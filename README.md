@@ -108,7 +108,7 @@ git clone https://github.com/Gother-GZ/SCU-SE-Course-Resources.git
 
 ## 🤝 如何贡献：开源精神的“价值回馈”
 
-开源精神是软件工程的灵魂。我们热烈欢迎你通过 **Pull Request (PR)** 或 **Issue** 参与到本项目的维护中来，无论是分享一份笔记，还是修复一个错别字。在提交之前，请务必阅读 **[📘 贡献指南 (Contributing Guide)](https://www.google.com/search?q=./CONTRIBUTING.md)** 以了解详细的目录规范与 Git 流程。
+开源精神是软件工程的灵魂。我们热烈欢迎你通过 **Pull Request (PR)** 或 **Issue** 参与到本项目的维护中来，无论是分享一份笔记，还是修复一个错别字。在提交之前，请务必阅读 **[📘 贡献指南 (Contributing Guide)](./assets/CONTRIBUTING.md)** 以了解详细的目录规范与 Git 流程。
 
 ## ⚠️ 免责声明 & 协议 
 
